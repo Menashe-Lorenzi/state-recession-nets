@@ -1,0 +1,5 @@
+recession,peak_mean_corr,min_mst_length,mean_corr_at_nber_peak,lead_months_to_corr_peak,pre_window_dispersion,corr_collapse_speed,pmfg_avg_clustering,pmfg_triangles,pmfg_4cliques,pmfg_largest_community
+1990,0.5285,33.109,0.4099,-18.0,0.039,-17.0,0.7232,142.0,47.0,15.0
+2001,0.5697,34.138,0.2977,10.0,0.0094,13.0,0.7145,137.0,40.0,14.0
+2008,0.8311,18.708,0.3558,16.0,0.0139,14.0,0.7591,142.0,47.0,19.0
+2020,0.9882,3.182,0.3901,2.0,0.0207,3.0,0.6641,138.0,42.0,13.0
