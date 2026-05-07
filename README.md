@@ -36,11 +36,11 @@ state_recession/
 ├── data/
 │   ├── raw/         — Phil-Fed Excel + FRED USREC
 │   ├── processed/   — section-prefixed parquet/npz outputs
-│   └── external/    — group-project baseline CSVs
+│   └── external/    — baseline data (macro economics engineered features) CSVs
 ├── src/             — data, networks, features, leadlag, modeling, plotting
 ├── scripts/         — section-prefixed runners (04, 06, 07, 08, 09)
 ├── experiments/
-│   └── alt_feature_family/   — alternative network-feature sensitivity check
+│   └── alt_feature_family/   — alternative network-feature (moments of the network) sensitivity check
 ├── figures/         — section-prefixed PNG outputs
 └── reports/
     └── tables/      — section-prefixed CSV tables
