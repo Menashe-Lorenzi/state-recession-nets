@@ -92,8 +92,8 @@ Two external sources, neither redistributed in this repository:
    it as `data/raw/USREC.csv`. The notebook also caches a parquet
    copy at `data/raw/nber_usrec.parquet`.
 
-3. **Group-project baseline panel** — the `master_dataset_v20260317.csv`
-   under `data/external/group_baseline/` contains the 6 untransformed
+3. **Project dataset baseline panel** — the `master_dataset_v20260317.csv`
+   under `data/external/group_baseline/` contains the 6 
    macro signals (T10Y2Y, BAA10Y, UNRATE, INDPRO, CPIAUCSL, FEDFUNDS)
    and the recession targets used for the simple and engineered
    baselines. See the accompanying `PROVENANCE.md` in that folder.
